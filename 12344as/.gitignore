@@ -1,6 +1,0 @@
-SECRETS-NO-SUBIR.txt
-*.secret
-.env*
-.vercel
-node_modules
-.DS_Store
